@@ -1,0 +1,27 @@
+{
+	"name": "my-blog",
+	"version": "1.0.0",
+	"description": "my blog",
+	"main": "gulpfile.js",
+	"dependencies": {},
+	"devDependencies": {
+		"gulp": "^3.9.1",
+		"gulp-shell": "^0.5.2",
+		"gulp-ssh": "^0.5.5"
+	},
+	"scripts": {
+		"test": "test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@bitbucket.org/KryDos/my-blog.git"
+	},
+	"keywords": [
+		"backend",
+		"software",
+		"development"
+	],
+	"author": "Ruslan Bekenev",
+	"license": "MIT",
+	"homepage": "https://bitbucket.org/KryDos/my-blog#readme"
+}
