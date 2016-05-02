@@ -1,6 +1,7 @@
 ---
 layout: post
 title: From Emacs to Intellij IDEA
+comments: true
 ---
 
 Recently I switched from Emacs, which I used about two years, to IntelliJ.
