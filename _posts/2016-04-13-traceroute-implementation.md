@@ -1,6 +1,6 @@
 ---
 layout: post
-title: traceroute implementation
+title: Traceroute implementation
 comments: true
 ---
 <a target="_blank" href="/assets/img/fun1.jpg"><img alt="fun first" src="/assets/img/fun1.jpg" width="550px"/></a>
