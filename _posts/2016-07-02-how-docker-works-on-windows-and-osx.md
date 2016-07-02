@@ -65,7 +65,8 @@ Both are native for their platforms and were developed for one platform with pla
 When you run Docker.exe or Docker.app the virtual machine will be started and you can forget about it at all,
 you no need to set socket address in your docker client or do something else.
 You can just run the app and start to use Docker. 
-That’s awesome and for docker users it looks like it works natively. 
+Internally it uses Linux with Docker Daemon installed but you will not see it at all.
+That’s awesome and for Docker users it looks like it works natively. 
 Every port of you application (that is exposed of course)
 can be accessed on localhost, you can share any part of your filesystem 
 with no issues.
