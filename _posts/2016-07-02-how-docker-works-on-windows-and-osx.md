@@ -5,7 +5,7 @@ comments: true
 ---
 <a target="_blank" href="/assets/img/dockerlogo.png"><img alt="fun first" src="/assets/img/dockerlogo.png" width="550px"/></a>
 
-Hi, today I want to tell you about parts of docker (yes, docker it is not standalone application). In this article I'm not going describe internals of docker, its filesystem, what is container, image and how to use it. Instead you’ll learn what is docker daemon and docker client and how docker and docker-beta (at the moment of this article it still beta) works on Windows and OSX. This article is pretty simple with minimum technical terms.
+Hi, today I want to tell you about parts of Docker (yes, Docker it is not standalone application). In this article I'm not going describe internals of docker, its filesystem, what is container, image and how to use it. Instead you’ll learn what is docker daemon and docker client and how docker and docker-beta (at the moment of this article it still beta) works on Windows and OSX. This article is pretty simple with minimum technical terms.
 
 What is docker
 ===============
