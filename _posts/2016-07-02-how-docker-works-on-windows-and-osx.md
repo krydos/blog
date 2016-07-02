@@ -67,7 +67,7 @@ you no need to set socket address in your docker client or do something else.
 You can just run the app and start to use Docker. 
 Internally it uses Linux with Docker Daemon installed but you will not see it at all.
 That’s awesome and for Docker users it looks like it works natively. 
-Every port of you application (that is exposed of course)
+Every port of your application (that is exposed of course)
 can be accessed on localhost, you can share any part of your filesystem 
 with no issues.
 
