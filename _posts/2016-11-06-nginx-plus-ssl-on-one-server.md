@@ -56,7 +56,7 @@ One more important thing is `proxy_pass` statement.  I will describe it soon.
 
 Ok. So now all connections to our domain (the-proxy.domain) are redirected to the HTTPS version and then are proxied to http://127.0.0.1:8082.
 
-*What do we have on 127.0.0.1:8082?*
+**What do we have on 127.0.0.1:8082?**
 
 On this port we have our application running. 
 We may have other application running on other ports and we can describe them in our `server` blocks.  
