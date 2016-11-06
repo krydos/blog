@@ -11,8 +11,7 @@ Today we'll find out how to do this.
 I'm not going to describe how to get SSL certificate, just notice that our proxy-nginx will be configured on special domain and you have to get certificate exactly for this domain. 
 
 Nginx configuration. 
------------------------------
-
+===================
 
 Add `server` block inside `http` block of your `nginx.conf` (or in one of included files).
 
