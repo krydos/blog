@@ -13,6 +13,7 @@ I'm not going to describe how to get SSL certificate, just notice that our proxy
 Nginx configuration. 
 -----------------------------
 
+
 Add `server` block inside `http` block of your `nginx.conf` (or in one of included files).
 
 ```
