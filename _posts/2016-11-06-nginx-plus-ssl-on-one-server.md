@@ -14,6 +14,7 @@ Nginx configuration.
 -----------------------------
 
 Add `server` block inside `http` block of your `nginx.conf` (or in one of included files).
+
 ```
 server {
    listen 80;
