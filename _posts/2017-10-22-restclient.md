@@ -142,9 +142,9 @@ GET :myvar/imghp
 
 <br/>
 
-<a target="_blank" href="https://github.com/pashky/restclient.el">Restclient.el</a> is a great package you deffenetly should try.
+<a target="_blank" href="https://github.com/pashky/restclient.el">Restclient.el</a> is a great package you definitely should try.
 I usually have it in my API repo if it's personal project or have it in local gitignore when work in a team.
-It allows you to quicly explore or test the API without leaving the Emacs.
+It allows you to quickly explore or test the API without leaving the Emacs.
 
 <img src="/assets/img/thumb-up.gif"/>
 
