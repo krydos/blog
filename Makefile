@@ -4,7 +4,7 @@ list:
 
 .PHONY: up
 up:
-	jekyll serve
+	JEKYLL_ENV=local jekyll serve
 
 .PHONY: build
 build:
