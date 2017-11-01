@@ -1,6 +1,12 @@
 # My variables
 name: "Ruslan's tech blog"
 description: backend software development
+url: "https://codelearn.me"
+plugins_dir:
+  - jekyll-sitemap
+
+gems:
+  - jekyll-sitemap
 
 # File management
 include: [".htaccess"]
