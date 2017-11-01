@@ -1,7 +1,7 @@
 # My variables
 name: "Ruslan's tech blog"
 description: backend software development
-url: "https://codelearn.me"
+url: "http://codelearn.me"
 plugins_dir:
   - jekyll-sitemap
 
