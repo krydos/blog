@@ -6,11 +6,11 @@ comments: true
 
 Hey,
 
-So your SSH session has been frozen? Here is what I'm doing when it happens.
+So your SSH session has been frozen? Here is what I was doing when it happened.
 
 <a target="_blank" href="/assets/img/ssh-baboon.gif"><img alt="ssh frozen gif" src="/assets/img/ssh-baboon.gif" width="550px"/></a>
 
-The actual thing you should do is press:
+The actual thing that should be done is press:
 
 - `Enter`
 - `~` (tilda)
@@ -18,7 +18,7 @@ The actual thing you should do is press:
 
 Welcome back to your local machine.
 
-The actions you've performed are called **Escape Sequence**.
+The actions performed are called **Escape Sequence**.
 
 SSH is just a shell tunnel between you and another machine.
 The SSH client pass all keys sequence, including key bindings, to the server.
