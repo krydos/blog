@@ -2,6 +2,7 @@
 layout: post
 title: Restclient (Postman for Emacs)
 comments: true
+description: Restclient mode for emacs
 ---
 
 Hi everyone.

@@ -2,13 +2,14 @@
 layout: post
 title: Setup TeamCity on Mac to work with Docker
 comments: true
+description: Setup TeamCity to work with Docker
 ---
 For one of our project we decided to use TeamCity on our Mac Mini (which is under table in the same room where we are).
 
 It was interesting experience with some pitfalls and I would like to share how we did it.
 Want to mention that installation of TeamCity is not subject of this article and I’m sure you can find a lot of posts about it in the internet.
 
-One more important thing. TeamCity on our MacMini was installed to **/Library/TeamCity** folder. 
+One more important thing. TeamCity on our MacMini was installed to **/Library/TeamCity** folder.
 Docker machine shares only home directory (/Users) but some of our docker containers requires **/Library/TeamCity/hash/our project name/src** directory to be shared.
 
 

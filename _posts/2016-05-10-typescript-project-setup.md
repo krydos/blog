@@ -2,6 +2,7 @@
 layout: post
 title: TypeScript - project setup
 comments: true
+description: Typescript basic project setup
 ---
 
 <a target="_blank" href="/assets/img/types_dance.png"><img alt="type dance" src="/assets/img/types_dance.png" width="400px"/></a>
