@@ -10,7 +10,7 @@ gems:
 
 # File management
 include: [".htaccess"]
-exclude: ["README.md", "LICENSE"]
+exclude: ["README.md", "LICENSE", "vendor", "packages"]
 
 
 # Sass
