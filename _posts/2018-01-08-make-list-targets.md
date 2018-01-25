@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Make list targets
+title: Make list targets [memo]
 comments: true
 description: Makefiles and their targets
 ---
