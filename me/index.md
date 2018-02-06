@@ -3,13 +3,19 @@ layout: about
 ---
 <img style="padding-left:30px; float:right; width:210px;" src="/assets/img/me.jpg" />
 
-Hi,
-My name is Ruslan and I’m not really sociable (clap clap clap).
+Hey everyone.
 
-I decided to have a blog where I can write something about my experience and tools/languages I use. Probably, it should help me to be more social.
+This is the site where I keep every kind of notes I consider useful.
 
-My current experience is mostly about PHP and backend-related development. I also have experience with many other programming languages (Rust, Go, Clojure, Ruby…) but I don’t think I know enough about them. So it would be great to improve my knowledge about them by researching and posting my thoughts here.
+Initially, it supposed to be a blog with cool long articles, but it turned out I feel comfortable with another format.
 
-Another reason of this blog is to make my writing skill better, plus have better English (it’s not my first language).
+I really hope these notes may be helpful for other people as well.
 
-Lets check where it will lead…
+
+If you have any questions/suggestions feel free to leave a comments in blog posts.
+
+Here are some links to find me:
+
+- <a target="_blank" href="https://github.com/KryDos">GitHub</a>
+- <a target="_blank" href="https://twitter.com/KryDos_">Twitter</a> (I'm not super active there though)
+- <a target="_blank" href="https://www.instagram.com/ruslan_bekenev/">Instagram</a>
