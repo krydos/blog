@@ -13,4 +13,4 @@ build:
 
 .PHONY: win-docker-up
 win-docker-up:
-	docker run --rm -it -v $$(pwd):/blog -p 4000:4000 -w="/blog" $(RUBY_CONTAINER_NAME) bundle exec jekyll serve --host=0.0.0.0 --force-polling
+	docker run --rm -it -v $(CURDIR):/blog -p 4000:4000 -w="/blog" $(RUBY_CONTAINER_NAME) bundle exec jekyll serve --host=0.0.0.0 --force-polling
