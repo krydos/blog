@@ -5,11 +5,16 @@ list:
 
 .PHONY: up
 up:
-	JEKYLL_ENV=local jekyll serve
+	docker run --rm -it -v $(CURDIR):/blog -p 4000:4000 -w="/blog" $(RUBY_CONTAINER_NAME) bundle exec jekyll serve --host=0.0.0.0
 
 .PHONY: build
 build:
 	jekyll serve
+
+.PHONY: new-post
+new-post:
+	@read -p "Post file name: " newpostfilename; \
+	touch ./_posts/`date +%Y-%m-%d`-$$newpostfilename.md
 
 .PHONY: win-docker-up
 win-docker-up:
