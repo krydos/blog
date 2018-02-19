@@ -5,7 +5,7 @@ comments: true
 description: Way to cleanup list of known projects in spacemacs
 ---
 
-Recently I've switched throuh a lot of different OS setups and my projects list in Spacemacs was bloated.
+Recently I've switched through a lot of different OS setups and my projects list in Spacemacs was bloated.
 
 Some projects were from MacOS, others were from Windows. All of them were not existed anymore.
 
@@ -17,4 +17,4 @@ on your current machine will be removed from the list of known projects.
 
 <center><img src="https://media.giphy.com/media/e1BxgoFxAOmbK/giphy.gif"/></center>
 
-Glad there is such funciton and my \*spacemacs\* buffer looks much much better now
+Glad there is such function and my \*spacemacs\* buffer looks much much better now

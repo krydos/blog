@@ -13,7 +13,7 @@ Here is how it looks like:
 ^ Click to make it bigger.
 
 Looks very nice, it updates itself each time when you `step` or do another action.
-It was confusing why Memory area is empty by defualt and shows nothing even when I try to `x <memory>`.
+It was confusing why Memory area is empty by default and shows nothing even when I try to `x <memory>`.
 
 It turned out I have to tell dashboard to watch for particular area of memory. Here is how to do it:
 
