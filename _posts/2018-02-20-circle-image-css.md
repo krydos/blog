@@ -5,7 +5,7 @@ comments: true
 description: How to make circle image with CSS
 ---
 
-Here is not about how to make circled image with css. I have to note it since
+Here is post about how to make circled image with css. I have to note it since
 I can't remember how css works in general and can't force myself to learn it.
 
 Here is the result:
