@@ -11,6 +11,10 @@ up:
 build:
 	jekyll serve
 
+.PHONY: bundle-install
+bundle-install:
+	docker run --rm -it -v $(CURDIR):/blog -w="/blog" $(RUBY_CONTAINER_NAME) bundle install --path vendor
+
 .PHONY: new-post
 new-post:
 	@read -p "Post file name: " newpostfilename; \
