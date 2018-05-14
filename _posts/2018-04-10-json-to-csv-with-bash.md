@@ -6,7 +6,7 @@ description: BASH parse JSON to CSV
 ---
 
 Hey, recently I've posted about [jq]({% post_url 2018-03-23-format-curl-json %}) and today I'm going
-to explain how I used it to parse JSON from web (retrived with CURL) and turn it to CSV.
+to explain how I used it to parse JSON from web (retrieved with CURL) and turn it to CSV.
 
 First of all let's see what JSON we have:
 
@@ -48,11 +48,11 @@ jq -r '.data | map(.short_data.name), map(.short_data.link), map(.long_data.comp
 ```
 <br/>
 
-`$OUTPUT` - is variable containing the JSON string (retrived with CURL in my case)
+`$OUTPUT` - is variable containing the JSON string (retrieved with CURL in my case)
 
 As you can see jq has it's own pipe and we can fetch values from json "path" and pass it to `@csv` handler.
 
-Looks great but it the result is a bit different from what we were expected:
+Looks great but the result is a bit different from what we were expected:
 
 ```
 value1,value1,value1,value1
@@ -63,8 +63,8 @@ value4,value4,value4,value4
 ```
 <br/>
 
-What do we need is traspose the output. [csvtool](https://github.com/Chris00/ocaml-csv) is great package that allow us to do it.
-We can pipe our csv to `<csv> | csvtool traspose -` and get result we need.
+What do we need is transpose the output. [csvtool](https://github.com/Chris00/ocaml-csv) is great package that allow us to do it.
+We can pipe our csv to `<csv> | csvtool transpose -` and get result we need.
 
 And final command:
 
