@@ -12,7 +12,7 @@ The Windows 10 search is not working. No results. Infinite loading.
 Solution
 ---------
 
-Reinstall Cotonou (even if you don't use it at all)
+Reinstall Cortana (even if you don't use it at all)
 
 * open `powershell` (with win+r and type `powershell`)
 * paste this:
