@@ -18,6 +18,7 @@ My config looks like this:
 
 ```vim
 let g:EasyGrepCommand="grep"
+let g:EasyGrepRoot="repository"
 let g:EasyGrepRecursive = 1
 let g:EasyGrepFilesToExclude = "vendor,docker,node_modules"
 ```
@@ -25,6 +26,8 @@ let g:EasyGrepFilesToExclude = "vendor,docker,node_modules"
 By default EasyGrep use `vimgrep` which is not able to ignore folders as far as I got. 
 
 So setting `grep` as `EasyGrepCommand` makes `EasyGrepFilesToExclude` being considered.
+
+Setting `EasyGrepRoot` to `repository` turns EasyGrep to "search from project root" mode.
 
 Now I can just place my cursor to a word I want to search for, press `<Leader>vv` and that's it. 
 
