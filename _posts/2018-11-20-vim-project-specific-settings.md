@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VIM, project specific settings
+title: Vim, project specific settings
 comments: true
 description: Vim set configuration per project
 ---
