@@ -56,7 +56,7 @@ Pretty simple, ha?
 
 Set headers
 -----------
-To define header(s) you need to write it right above the URL definition:
+To define headers you need to write them just below the URL definition:
 
 ```bash
 #
@@ -72,7 +72,7 @@ By pressing `C-c C-c` the headers will be attached to the request.
 Post payload
 ------------
 
-If you want to send data to the server you can define it right after empty line of the action definition.
+If you want to send data to the server you can define it right after empty line of the URL (or headers if exist) definition.
 
 Here is an example from `restclient.el` repo.
 
@@ -143,9 +143,8 @@ GET :myvar/imghp
 
 <br/>
 
-<a target="_blank" href="https://github.com/pashky/restclient.el">Restclient.el</a> is a great package you definitely should try.
-I usually have it in my API repo if it's personal project or have it in local gitignore when work in a team.
-It allows you to quickly explore or test the API without leaving the Emacs.
+<a target="_blank" href="https://github.com/pashky/restclient.el">Restclient.el</a> is a great package you definitely should try. 
+It allows you quickly explore or test the API without leaving the Emacs.
 
 <img src="/assets/img/thumb-up.gif"/>
 
