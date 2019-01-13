@@ -18,7 +18,7 @@ build:
 
 .PHONY: bundle-install
 bundle-install:
-	docker run --rm -it -v $(CURDIR):/blog -w="/blog" $(RUBY_CONTAINER_NAME) bundle install
+	docker run --rm -it -v $(CURDIR):/blog -w="/blog" $(RUBY_CONTAINER_NAME) bash -c 'bundle config --local path ./vendor; bundle install'
 
 .PHONY: new-post
 new-post:
