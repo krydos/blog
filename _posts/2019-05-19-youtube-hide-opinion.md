@@ -20,3 +20,6 @@ As you can see you still can up/down vote a video but you don't see it's rating.
 
 The extension also supports **Enhancer for YouTube**.
 
+P.S.
+Some time ago I also published this extension to [Google's WebStore](https://chrome.google.com/webstore/detail/youtube-hide-opinion/kmagnigdjocidngajmobbifcngjoejkm)
+
