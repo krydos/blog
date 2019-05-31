@@ -9,9 +9,9 @@ Hey everyone.
 
 ## Links first
 
-* [DEB (Ubuntu/Debian/Mint/etc...)](https://www.dropbox.com/s/ldv7uf5dxmerqx8/Todoist.deb?dl=0)
-* [RPM (Fedora/Suse/etc...)](https://www.dropbox.com/s/q8m6rxp26bjmfnh/Todoist.rpm?dl=0)
-* [Portable Windows version](https://www.dropbox.com/s/ve97rxd2i1zhlm1/Todoist.exe?dl=0)
+* [DEB (Ubuntu/Debian/Mint/etc...)](https://github.com/KryDos/todoist-linux/releases/)
+* [RPM (Fedora/Suse/etc...)](https://github.com/KryDos/todoist-linux/releases/)
+* [Portable Windows version](https://github.com/KryDos/todoist-linux/releases/)
 
 Here is the [Github](https://github.com/KryDos/todoist-linux) page of the project.
 You can download releases from there as well.
