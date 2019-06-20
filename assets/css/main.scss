@@ -19,6 +19,12 @@ h2 {
     font-weight: bold;
     margin-top: 20px;
     margin-bottom: 10px;
+
+    &.no-visual {
+      font-size: 100%;
+      font-weight: normal;
+      display: inline;
+    }
 }
 .highlighter-rouge {
     padding: 3px;

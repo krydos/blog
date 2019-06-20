@@ -1,11 +1,13 @@
 
-<div class="header">
+<div role="banner" class="header">
     <h1>{{ site.name }}</h1>
-    <ul>
+    <div role="navigation">
+      <ul>
         {% for item in site.data.navigation %}
         <li>
-            <a href="{{ item.url }}">{{ item.title }}</a>
+          <a href="{{ item.url }}">{{ item.title }}</a>
         </li>
         {% endfor %}
-    </ul>
+      </ul>
+    </div>
 </div>
