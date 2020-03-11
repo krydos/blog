@@ -63,7 +63,7 @@ Possible flow:
   that using Local Storage will not be enough if we're going to store images. Remember that we cannot use links
   since we're possibly offline.
 
-  * Basically there are not too much possible options. [IndexedDB](https://developer.mozilla.org/ru/docs/IndexedDB) is
+  * Basically there are not too many possible options. [IndexedDB](https://developer.mozilla.org/ru/docs/IndexedDB) is
   something we can try to use in this case.
 
 
@@ -71,5 +71,6 @@ Don't hesitate to ask other questions you're interesting in. It's also OK if can
 sometimes we don't have answers too. We usually google in this case, but a candidate can't so it's completely OK
 to give some help to him or her.
 
+If you'd like to get more understanding on what knowledge the frontend candidate should have please refer to [How to Hire a Front-end Developer](https://www.toptal.com/front-end/how-to-hire) by TopTal.
 
 Take a look at another project you can discuss with an applicant [here]({% post_url 2018-07-16-frontend-interview-discuss-part-2 %}).
