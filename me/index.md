@@ -5,17 +5,15 @@ layout: about
 
 Hey everyone.
 
-This is the site where I keep every kind of notes I consider useful.
-
-Initially, it supposed to be a blog with cool long articles, but it turned out I feel comfortable with another format.
-
-I really hope these notes may be helpful for other people as well.
+I'm a long time Software Engineer primarily aiming web technologies.
 
 
-If you have any questions/suggestions feel free to leave a comments in blog posts.
+I've created this site to keep every kind of notes I consider useful
+and I really hope these notes may be helpful for other people as well.
 
-Here are some links to find me:
+
+Here are some links to find/contact me:
 
 - <a target="_blank" href="https://github.com/KryDos">GitHub</a>
-- <a target="_blank" href="https://twitter.com/KryDos_">Twitter</a> (I'm not super active there though)
 - <a target="_blank" href="https://www.instagram.com/ruslan_bekenev/">Instagram</a>
+- <a target="_blank" href="mailto:furyinbox@gmail.com">Email</a>
