@@ -9,7 +9,7 @@ layout: default
   <h1>Blog Posts:</h1>
   <ul>
     {% for post in site.posts %}
-    <li>
+    <li class="post-item">
       <span class="date">{{ post.date | date: '%Y %b %d' }}</span>
       -
       <h2 class="no-visual"><a href="{{ post.url }}">{{ post.title }}</a></h2>
