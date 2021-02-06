@@ -1,7 +1,6 @@
 ---
 layout: post
 title: AwesomeWM change key repeat frequency
-comments: true
 description: How to increase speed of a key to repeat
 ---
 

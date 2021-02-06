@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TypeScript - project setup
-comments: true
 description: Typescript basic project setup
 ---
 

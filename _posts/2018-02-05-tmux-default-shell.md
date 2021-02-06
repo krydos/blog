@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Tmux, default shell
-comments: true
 description: set default shell for tmux
 ---
 

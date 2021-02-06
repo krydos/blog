@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GDB print string from memory
-comments: true
 description: gdb print string from memory, examine
 ---
 

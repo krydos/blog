@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Setup TeamCity on Mac to work with Docker
-comments: true
 description: Setup TeamCity to work with Docker
 ---
 For one of our project we decided to use TeamCity on our Mac Mini (which is under table in the same room where we are).

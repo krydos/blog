@@ -1,7 +1,6 @@
 ---
 layout: post
 title: My Windows development environment setup
-comments: true
 description: My Windows development environment setup. My dev workflow.
 ---
 

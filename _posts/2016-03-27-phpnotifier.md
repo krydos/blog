@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PHPNotifier - task scheduler
-comments: true
 description: PHPNotifier the scheduler for PHP
 ---
 Hi,

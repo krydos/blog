@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Vim, format JSON file
-comments: true
 description: Format JSON file in Vim
 ---
 
-I have to note it, it's just brilliant!  
+I have to note it, it's just brilliant!
 
-If you want to format a JSON file opened in Vim then just run 
+If you want to format a JSON file opened in Vim then just run
 
 ```vim
 : %!python -m json.tool

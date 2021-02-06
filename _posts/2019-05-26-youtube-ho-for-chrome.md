@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Youtube Hide opinion for Google Chrome
-comments: true
 description: Google Chrome extension to hide rate on Youtube videos
 ---
 

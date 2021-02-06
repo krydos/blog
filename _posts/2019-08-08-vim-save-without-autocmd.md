@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Vim save file without AutoCmd
-comments: true
 description: Save file in Vim ignoring AutoCmd
 ---
 

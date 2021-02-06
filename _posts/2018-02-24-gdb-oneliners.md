@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GDB oneliners
-comments: true
 description: gdb ex command oneliners
 ---
 

@@ -1,16 +1,15 @@
 ---
 layout: post
 title: Vim, project specific settings
-comments: true
 description: Vim set configuration per project
 ---
 
-Hey, 
+Hey,
 I've just been looking for a good plugin that can help me to configure some VIM variables per project.
 
-For example I want `set shiftwidth=2` for my JavaScript project and `set shiftwidth=4` for PHP one. 
+For example I want `set shiftwidth=2` for my JavaScript project and `set shiftwidth=4` for PHP one.
 
-Turned out no plugin needed. 
+Turned out no plugin needed.
 
 Just put this to your `.vimrc`:
 

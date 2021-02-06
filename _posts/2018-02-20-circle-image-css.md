@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Circle image with CSS
-comments: true
 description: How to make circle image with CSS
 ---
 

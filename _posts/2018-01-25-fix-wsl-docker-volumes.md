@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Docker volumes, WSL and Docker for Windows [memo]
-comments: true
 description: Windows Linux subsystem and docker volumes
 ---
 

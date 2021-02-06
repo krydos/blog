@@ -1,7 +1,6 @@
 ---
 layout: post
 title: VirtualBox get IP of VM (cli)
-comments: true
 description: VirtualBox get IP of VM with guestcontrol
 ---
 

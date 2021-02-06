@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GDB dashboard
-comments: true
 description: gdb dashboard package
 ---
 

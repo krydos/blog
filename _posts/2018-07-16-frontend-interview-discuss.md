@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Frontend Developer interview. Help for interviewers (1)
-comments: true
 description: Frontend Developer interview. Situations to discuss with candidate
 ---
 

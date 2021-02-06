@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JSON to CSV with BASH
-comments: true
 description: BASH parse JSON to CSV
 ---
 

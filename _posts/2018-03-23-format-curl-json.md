@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CURL get formatted JSON
-comments: true
 description: Format JSON with CURL and jq
 ---
 

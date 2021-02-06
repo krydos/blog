@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Disable CURL's globbing parser
-comments: true
 description: curl, disable brackets parser.
 ---
 

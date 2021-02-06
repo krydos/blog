@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SSH escape sequences or how to quit frozen SSH connection
-comments: true
 ---
 
 Hey,

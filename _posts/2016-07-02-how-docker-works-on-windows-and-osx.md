@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Docker parts and how it works on Windows and OSX
-comments: true
 ---
 <a target="_blank" href="/assets/img/dockerlogo.png"><img alt="fun first" src="/assets/img/dockerlogo.png" width="550px"/></a>
 
@@ -22,7 +21,7 @@ Yeah, I’m sure you saw it.
 
 Let me tell you about the parts that Docker consists of.
 
-The first and probably main part of Docker is **Docker Daemon**. 
+The first and probably main part of Docker is **Docker Daemon**.
 This guy is heart of Docker term. He do every job that you know Docker can do
 and this guy **is only available on Linux**.
 
@@ -32,7 +31,7 @@ you invoke **Docker Client** and ask him to pipe commands you typed to the
 
 <a target="_blank" href="/assets/img/docker-client-and-daemin.png"><img alt="fun first" src="/assets/img/docker-client-and-daemon.png" width="550px"/></a>
 
-So, strictly speaking, you saw how people use Docker Client on their Windows/OSX machines. 
+So, strictly speaking, you saw how people use Docker Client on their Windows/OSX machines.
 They have/had virtual machine installed with Linux inside
 where Docker Daemon was running.
 Probably they used **docker-machine** which is just interface to the virtual box
@@ -59,16 +58,16 @@ But, it is not really truth.
 
 <a target="_blank" href="/assets/img/you-lied.jpg"><img alt="fun first" src="/assets/img/you-lied.jpg"/></a>
 
-**Docker Beta** is still using virtual machines. 
-On Windows it uses Hyper-V and on OSX it uses xhyve. 
+**Docker Beta** is still using virtual machines.
+On Windows it uses Hyper-V and on OSX it uses xhyve.
 Both are native for their platforms and were developed for one platform with platform-specific features.
 When you run Docker.exe or Docker.app the virtual machine will be started and you can forget about it at all,
 you no need to set socket address in your docker client or do something else.
-You can just run the app and start to use Docker. 
+You can just run the app and start to use Docker.
 Internally it uses Linux with Docker Daemon installed but you will not see it at all.
-That’s awesome and for Docker users it looks like it works natively. 
+That’s awesome and for Docker users it looks like it works natively.
 Every port of your application (that is exposed of course)
-can be accessed on localhost, you can share any part of your filesystem 
+can be accessed on localhost, you can share any part of your filesystem
 with no issues.
 
 Probably Docker will never be available on Windows and OSX natively because Docker is using Linux kernel features and these feature are not available on other platforms. But it doesn’t mean you can’t use Docker on Windows or OSX for your development needs.

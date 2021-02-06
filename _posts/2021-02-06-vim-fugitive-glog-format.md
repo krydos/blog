@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Vim Fugitive. :Glog - show a commit author
-comments: true
 description: custom format for Vim Fugitive :Glog command
 ---
 

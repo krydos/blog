@@ -1,7 +1,6 @@
 ---
 layout: post
 title: one Nginx, multiple sites, one SSL certificate
-comments: true
 description: NGINX and multiple sites on one SSL certificate
 ---
 

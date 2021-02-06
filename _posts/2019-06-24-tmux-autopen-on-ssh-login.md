@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Open Tmux on ssh login
-comments: true
 description: How to open tmux automatically on login via ssh
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Terminal tips and tricks
-comments: true
 description: Terminal tips and tricks
 ---
 

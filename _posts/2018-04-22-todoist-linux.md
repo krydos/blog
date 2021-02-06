@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Todoist for Linux
-comments: true
 description: Todoist for Linux, tray and global keybindings
 ---
 

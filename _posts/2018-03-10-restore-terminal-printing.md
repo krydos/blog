@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Restore terminal printing
-comments: true
 description: Fix terminal after printing of binary file
 ---
 

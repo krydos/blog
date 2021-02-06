@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Work remotely by Julia Evans
-comments: true
 description: Work remotely by Julia Evans
 ---
 

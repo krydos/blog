@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "PHP: visual charset detection of a string"
-comments: true
 description: mb_convert_encoding manually detect charset
 ---
 

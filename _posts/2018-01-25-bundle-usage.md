@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Ruby's bundle exec [memo]
-comments: true
 description: Bundle exec and local ruby packages/gems
 ---
 

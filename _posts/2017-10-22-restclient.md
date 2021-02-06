@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Restclient (Postman for Emacs)
-comments: true
 description: Restclient mode for emacs
 ---
 
@@ -143,7 +142,7 @@ GET :myvar/imghp
 
 <br/>
 
-<a target="_blank" href="https://github.com/pashky/restclient.el">Restclient.el</a> is a great package you definitely should try. 
+<a target="_blank" href="https://github.com/pashky/restclient.el">Restclient.el</a> is a great package you definitely should try.
 It allows you quickly explore or test the API without leaving the Emacs.
 
 <img src="/assets/img/thumb-up.gif"/>

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Docker detach keys
-comments: true
 description: docker, broken ctrl-p
 ---
 

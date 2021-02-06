@@ -1,7 +1,6 @@
 ---
 layout: post
 title: git grep --untracked
-comments: true
 description: git grep untracked files
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Custom icon for terminal application in gnome-shell
-comments: true
 description: Custom icon for terminal application in gnome-shell
 ---
 

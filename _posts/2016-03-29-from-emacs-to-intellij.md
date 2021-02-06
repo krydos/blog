@@ -1,7 +1,6 @@
 ---
 layout: post
 title: From Emacs to Intellij IDEA
-comments: true
 description: Migrate from Emacs to Intelliij IDEA
 ---
 

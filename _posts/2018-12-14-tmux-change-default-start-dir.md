@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Tmux. Change default start directory
-comments: true
 description: set default start directory
 ---
 

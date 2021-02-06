@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Projectile cleanup list of known projects (spacemacs)
-comments: true
 description: Way to cleanup list of known projects in spacemacs
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Youtube Hide opinion
-comments: true
 description: Firefox extension to hide rate on Youtube videos
 ---
 

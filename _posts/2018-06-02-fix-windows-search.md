@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Fix Windows 10 search
-comments: true
 description: Windows 10 search no results
 ---
 

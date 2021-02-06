@@ -1,7 +1,6 @@
 ---
 layout: post
 title: How to interview [memo]
-comments: true
 description: How to interview
 ---
 

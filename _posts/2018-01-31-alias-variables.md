@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Bash. Variables inside aliases
-comments: true
 description: an issue with variables inside bash alias
 ---
 

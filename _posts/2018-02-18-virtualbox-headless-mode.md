@@ -1,7 +1,6 @@
 ---
 layout: post
 title: VirtualBox Headless mode
-comments: true
 description: VirtualBox run machine in headless mode
 ---
 

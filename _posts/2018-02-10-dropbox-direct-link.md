@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Dropbox direct link to file
-comments: true
 description: Get direct link to Dropbox file
 ---
 

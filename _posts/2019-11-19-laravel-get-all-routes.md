@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Laravel: get all routes and corresponding controllers/actions"
-comments: true
 description: Get corresponding actions for routes
 ---
 

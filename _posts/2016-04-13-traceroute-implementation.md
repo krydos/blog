@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Traceroute implementation
-comments: true
 description: Traceroute implementation in PHP
 ---
 <a target="_blank" href="/assets/img/fun1.jpg"><img alt="fun first" src="/assets/img/fun1.jpg" width="550px"/></a>
