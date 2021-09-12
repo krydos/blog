@@ -1,7 +1,6 @@
 ---
 layout: about
 ---
-<img style="padding-left:30px; float:right; width:210px;" src="/assets/img/me.jpg" />
 
 Hey everyone.
 
