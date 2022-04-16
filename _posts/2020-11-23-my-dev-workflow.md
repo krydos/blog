@@ -39,7 +39,7 @@ I love WSL. I also like how WSL team switched to VM approach for their WSL2.
 WSL just doesn't fit my workflow. I like to fire up the VM, work and suspend it so I can wake it up again when needed in a second
 and continue from exactly that state I stopped in.
 
-To stop WSL I literally need to stop all the main process like Nginx, Postgres, Tmux. Tmux idea is to be never stopped.
+To stop WSL I literally need to stop all the main process like Nginx, Postgres, Tmux. Tmux main purpose is to be never stopped.
 
 I don't want to keep WSL's VM running all the time.
 
