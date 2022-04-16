@@ -1,0 +1,27 @@
+#!/bin/bash
+RUBY_CONTAINER_NAME=ruby:2
+
+function debug {
+    podman run --rm -it -v `pwd`:/blog -p 4000:4000 -w="/blog" $RUBY_CONTAINER_NAME bash
+}
+
+function up {
+    podman run --rm -it -v `pwd`:/blog -p 4000:4000 -w="/blog" $RUBY_CONTAINER_NAME bash -c 'bundle config --local path ./vendor; bundle exec jekyll serve --host=0.0.0.0'
+}
+
+function bundle-install {
+    podman run --rm -it -v `pwd`:/blog -w="/blog" $RUBY_CONTAINER_NAME bash -c 'bundle config --local path ./vendor; bundle install'
+}
+
+function new-post {
+  touch ./_posts/`date +%Y-%m-%d`-$1.md
+}
+
+function help {
+    echo "$0 <task> <args>"
+    echo "Tasks:"
+    compgen -A function | cat -n
+}
+
+TIMEFORMAT="Task completed in %3lR"
+time ${@:-default}
