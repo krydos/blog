@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Podman detach keys
+date: 2022-06-04 15:30:00 +03:00
 description: podman, broken ctrl-p
 ---
 
