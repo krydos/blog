@@ -5,7 +5,7 @@
       <ul>
         {% for item in site.data.navigation %}
         <li>
-          <a href="{{ item.url }}">{{ item.title }}</a>
+          <a href="{{ item.url }}" {% if item.new_tab %} target="_blank" {% endif %}>{{ item.title }}</a>
         </li>
         {% endfor %}
       </ul>
