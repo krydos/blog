@@ -2,9 +2,25 @@
 //$color-primary: #272727;
 //$color-background: #FFFFFF;
 //$color-link: #1A0DAB;
-$color-primary: #CFCFCF;
-$color-background: #292929;
-$color-link: rgb(155, 231, 147);
+
+:root {
+    --color-primary: #CFCFCF;
+    --color-background: #292929;
+    --color-link: rgb(155, 231, 147);
+    --highlight-color: #CFCFCF;
+    --highlight-background: #505050;
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+        --color-primary: #202124;
+        --color-background: #fff;
+        --color-link: rgb(12 32 211);
+        --highlight-color: #fbfbfb;
+        --highlight-background: #505050;
+    }
+
+}
 
 // FONT
 $font-url: "https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic";

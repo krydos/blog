@@ -5,8 +5,8 @@
 @import "config";
 
 body {
-    color: $color-primary;
-    background: $color-background;
+    color: var(--color-primary);
+    background: var(--color-background);
     font-family: 'Inconsolata', ;
     font-size: 100%;
     font-weight: 400;
@@ -36,26 +36,27 @@ h3 {
 
 .highlighter-rouge {
     padding: 3px;
-    background: #505050;
+    background: var(--highlight-background);
     margin-bottom: 10px;
+    color: var(--highlight-color);
 }
 p {
     font-size: 1em;
     line-height: 150%;
 }
 a {
-    color: $color-link;
+    color: var(--color-link);
     text-decoration: none;
     &:visited {
-        color: $color-link;
+        color: var(--color-link);
         text-decoration: none;
     }
     &:hover {
-        color: $color-link;
+        color: var(--color-link);
         text-decoration: underline;
     }
     &:active {
-        color: $color-link;
+        color: var(--color-link);
         text-decoration: none;
     }
 }
