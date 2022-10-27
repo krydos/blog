@@ -9,6 +9,7 @@
     --color-link: rgb(155, 231, 147);
     --highlight-color: #CFCFCF;
     --highlight-background: #505050;
+    --strong-color: white;
 }
 
 @media (prefers-color-scheme: light) {
@@ -18,6 +19,7 @@
         --color-link: rgb(12 32 211);
         --highlight-color: #fbfbfb;
         --highlight-background: #505050;
+        --strong-color: #2d2d2d;
     }
 
 }
