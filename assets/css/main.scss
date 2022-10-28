@@ -223,3 +223,10 @@ small {
 .post-item {
   padding-left: 0px;
 }
+
+blockquote {
+    margin: 0;
+    padding-left: 1.4rem;
+    border-left: 4px solid #dadada;
+    font-style: italic;
+}
