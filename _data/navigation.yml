@@ -5,5 +5,9 @@
   url: https://github.com/KryDos
   new_tab: true
 
+- title: gemini
+  url: gemini://g.codelearn.me
+  new_tab: true
+
 - title: rss
   url: /feed.xml
