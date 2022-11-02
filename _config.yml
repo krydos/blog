@@ -2,8 +2,6 @@
 name: "Ruslan's tech blog"
 description: Software development related stuff
 url: "https://codelearn.me"
-plugins_dir:
-  - jekyll-sitemap
 
 plugins:
   - jekyll-sitemap
@@ -26,3 +24,6 @@ kramdown:
   input: GFM
   hard_wrap: false
   syntax_highlighter: rouge
+
+exclude:
+  - _capsule
