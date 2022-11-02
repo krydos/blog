@@ -1,13 +1,23 @@
 # codelearn.me
 My blog made with [jekyll](http://jekyllrb.com) and hosted with Github Pages.
-Since I took this template from getmicah.github.io I hope he will not be mind :3
 
 ## how to run
 
-jekyll config has `vendor` and `packages` folders excluded.
+Install all the deps
+`bundle config --local path ./vendor; bundle install`
 
-Install gems with `bundle install --path=./packages`
+Run jekyll
+`bundle exec jekyll serve`
 
-Run jekyll with `bundle exec jekyll serve`
+If on windows use `--force_polling` option to make `watch` working properly
 
-If on windows use `--force_polling` option to make `watch` working
+## Gemini
+
+This repo contains one custom plugin in `_plugins` folder.
+
+The plugin generates `.gmi` files from `.md` posts on every build/serve.
+
+Those `.gmi` files aren't handled by github pages and I deploy those manually
+to my gemini server at the moment.
+
+Tool that is used to convert md to gmi is called `md2gemini` and it's python lib that can be installed with pip
