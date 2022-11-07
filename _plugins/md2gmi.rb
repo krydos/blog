@@ -36,7 +36,7 @@ module Jekyll
         index_gmi_path = root_rel_path(File.join(CAPSULE_DIR, INDEX_GMI))
         content = File.read(header_path()) + "\n"
         posts_array.each do |p_info|
-          content = content + gemtext_link(p_info[:title], p_info[:file])
+          content = content + gemtext_link(p_info[:title], p_info[:file]) # that's how every post is gonna look like
         end
 
         File.write(index_gmi_path, content + "\n" + File.read(footer_path()))
@@ -76,6 +76,9 @@ module Jekyll
         "# #{post.data['title']}\n"
       end
 
+      # we want temp file with the post content
+      # because the content doesn't contain jekyll specific
+      # header that every md file has
       def create_temp_file_from_post(post)
         tmp_file_name = get_tmp_filename(post)
         File.write(root_rel_path(File.join(CAPSULE_DIR, tmp_file_name)), gen_title(post) + post.content)
@@ -94,6 +97,9 @@ module Jekyll
         {:title => post.data["title"], :file => (post.basename_without_ext + OUTPUT_EXT)}
       end
 
+      # when temp file is created we want to
+      # convert it to gmi. Maybe there Ruby-way
+      # but at the moment I use python tool for this
       def temp_file_to_gmi(post)
         tmp_file_name = get_tmp_filename(post)
         path = root_rel_path(File.join(CAPSULE_DIR, tmp_file_name))
