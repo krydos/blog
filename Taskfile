@@ -6,15 +6,26 @@ function debug {
 }
 
 function up {
-    podman run --rm -it -v `pwd`:/blog -p 4000:4000 -w="/blog" $RUBY_CONTAINER_NAME bash -c 'bundle config --local path ./vendor; bundle exec jekyll serve --host=0.0.0.0'
+    bundle config --local path ./vendor; bundle exec jekyll serve --host=0.0.0.0
 }
 
 function bundle-install {
-    podman run --rm -it -v `pwd`:/blog -w="/blog" $RUBY_CONTAINER_NAME bash -c 'bundle config --local path ./vendor; bundle install'
+    bundle config --local path ./vendor; bundle install
 }
 
 function new-post {
-  touch ./_posts/`date +%Y-%m-%d`-$1.md
+    POSTPATH="./_posts/`date +%Y-%m-%d`-$1.md"
+
+    echo "---" > $POSTPATH \
+        && echo "layout: post" >> $POSTPATH \
+        && echo "title:" >> $POSTPATH \
+        && echo "description:" >> $POSTPATH \
+        && echo "---" >> $POSTPATH
+}
+
+function capsule-deploy {
+    rsync -aP --exclude '_capsule/_header.gmi' --exclude '_capsule/_footer.gmi' _capsule/ vpn-droplet:/home/gemini/gemini-php/hosts/default/ ; \
+        ssh vpn-droplet 'chown -R gemini:gemini /home/gemini/gemini-php/hosts/default'
 }
 
 function help {
