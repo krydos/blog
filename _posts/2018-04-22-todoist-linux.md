@@ -2,6 +2,7 @@
 layout: post
 title: Todoist for Linux
 description: Todoist for Linux, tray and global keybindings
+tags: linux projects
 ---
 
 Hey everyone.

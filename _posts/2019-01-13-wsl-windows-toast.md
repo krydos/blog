@@ -2,6 +2,7 @@
 layout: post
 title: notify-send replacement for WSL
 description: notify-send in wsl with help of powershell
+tags: wsl windows
 ---
 
 Hi,

@@ -2,6 +2,7 @@
 layout: post
 title: Getting back to Emacs
 description: Returning back to Emacs with doom
+tags: emacs
 ---
 
 I do change my workflow from time to time to keep myself in shape.

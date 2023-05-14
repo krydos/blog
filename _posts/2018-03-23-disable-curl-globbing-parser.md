@@ -2,6 +2,7 @@
 layout: post
 title: Disable CURL's globbing parser
 description: curl, disable brackets parser.
+tags: curl
 ---
 
 Hey. Recently I've tried to CURL something like this:

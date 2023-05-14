@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Projectile find and replace
+tags: emacs
 ---
 
 Projectile is great Emacs package you definitely have to install if you didn't.

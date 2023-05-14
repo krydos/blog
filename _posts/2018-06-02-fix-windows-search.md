@@ -2,6 +2,7 @@
 layout: post
 title: Fix Windows 10 search
 description: Windows 10 search no results
+tags: windows
 ---
 
 The issue

@@ -2,6 +2,7 @@
 layout: post
 title: How to interview [memo]
 description: How to interview
+tags: productivity
 ---
 
 Just met this nice article by Laurie Voss called `You suck at technical interviews`.

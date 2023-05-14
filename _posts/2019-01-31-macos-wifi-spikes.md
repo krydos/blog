@@ -2,6 +2,7 @@
 layout: post
 title: MacOS fix not stable WiFi (ping spikes)
 description: MacOS fix ping spikes on WiFi connection
+tags: macos
 ---
 
 hey,

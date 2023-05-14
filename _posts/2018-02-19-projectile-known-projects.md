@@ -2,6 +2,7 @@
 layout: post
 title: Projectile cleanup list of known projects (spacemacs)
 description: Way to cleanup list of known projects in spacemacs
+tags: emacs
 ---
 
 Recently I've switched through a lot of different OS setups and my projects list in Spacemacs was bloated.

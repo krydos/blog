@@ -2,6 +2,7 @@
 layout: post
 title: GDB print string from memory
 description: gdb print string from memory, examine
+tags: gdb
 ---
 
 Hey,

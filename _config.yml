@@ -27,3 +27,6 @@ kramdown:
 
 exclude:
   - _capsule
+
+feed:
+  tags: true

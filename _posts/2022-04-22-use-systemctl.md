@@ -2,6 +2,7 @@
 layout: post
 title: Use systemctl instead of service command
 description: systemd - systemctl vs service
+tags: systemd
 ---
 
 ## TLDR;

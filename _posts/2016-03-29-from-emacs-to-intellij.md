@@ -2,6 +2,7 @@
 layout: post
 title: From Emacs to Intellij IDEA
 description: Migrate from Emacs to Intelliij IDEA
+tags: emacs
 ---
 
 Recently I switched from Emacs, which I used about two years, to IntelliJ.

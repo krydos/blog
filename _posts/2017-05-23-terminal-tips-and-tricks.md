@@ -2,6 +2,7 @@
 layout: post
 title: Terminal tips and tricks
 description: Terminal tips and tricks
+tags: terminal
 ---
 
 Hey.

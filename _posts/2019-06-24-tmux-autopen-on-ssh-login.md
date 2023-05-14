@@ -2,6 +2,7 @@
 layout: post
 title: Open Tmux on ssh login
 description: How to open tmux automatically on login via ssh
+tags: tmux ssh
 ---
 
 Here is few lines you need to add to your .bashrc/.zshrc/.whatevershellrc:

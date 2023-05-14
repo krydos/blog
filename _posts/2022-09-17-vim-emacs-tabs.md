@@ -2,6 +2,7 @@
 layout: post
 title: Vim Tabs in Emacs
 description: Usage of tabs in Emacs and Vim
+tags: emacs vim
 ---
 
 Immediately few things to mention.

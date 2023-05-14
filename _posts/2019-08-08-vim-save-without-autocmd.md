@@ -2,6 +2,7 @@
 layout: post
 title: Vim save file without AutoCmd
 description: Save file in Vim ignoring AutoCmd
+tags: vim
 ---
 
 Vim's **autocmd** is very powerful feature.

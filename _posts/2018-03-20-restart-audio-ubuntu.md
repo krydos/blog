@@ -2,6 +2,7 @@
 layout: post
 title: Restart audio subsystem on Ubuntu
 description: Fix no sound on ubuntu 17.10 after suspend
+tags: linux
 ---
 
 I'm on Ubuntu 17.10 right now and sometimes after suspend

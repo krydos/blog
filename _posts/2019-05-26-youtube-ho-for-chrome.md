@@ -2,6 +2,7 @@
 layout: post
 title: Youtube Hide opinion for Google Chrome
 description: Google Chrome extension to hide rate on Youtube videos
+tags: youtube projects
 ---
 
 Today I decided to port my [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/youtube-hide-opinion/) to Google Chrome.

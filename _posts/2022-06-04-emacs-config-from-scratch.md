@@ -3,6 +3,7 @@ layout: post
 title: Ditching Doom
 date: 2022-06-04 16:00:00 +03:00
 description: Using config from scratch instead of Doom
+tags: emacs
 ---
 
 In my previous post I've been talking about Doom config and that it is great and all but

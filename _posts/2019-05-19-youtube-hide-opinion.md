@@ -2,6 +2,7 @@
 layout: post
 title: Youtube Hide opinion
 description: Firefox extension to hide rate on Youtube videos
+tags: youtube projects
 ---
 
 Watching videos on Youtube I've noticed I influenced a lot by paying

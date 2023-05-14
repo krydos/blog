@@ -2,6 +2,7 @@
 layout: post
 title: Vim, project specific settings
 description: Vim set configuration per project
+tags: vim
 ---
 
 Hey,

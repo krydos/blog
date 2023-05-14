@@ -2,6 +2,7 @@
 layout: post
 title: Tmux. Change default start directory
 description: set default start directory
+tags: tmux
 ---
 
 Hi,

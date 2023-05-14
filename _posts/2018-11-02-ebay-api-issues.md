@@ -2,6 +2,7 @@
 layout: post
 title: Ebay API and Platform Notifications
 description: Ebay Notifications are not sending by Ebay if you're using oAuth
+tags: api
 ---
 
 If your web site isn't receiving the notifications from Ebay even though you have everything configured AND **you're using oAuth tokens** for `SetNotificationsPreferences` request then you have nothing to do except contact the Ebay support.

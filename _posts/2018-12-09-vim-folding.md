@@ -2,6 +2,7 @@
 layout: post
 title: Vim folding
 description: Vim folding
+tags: vim
 ---
 
 Hi,

@@ -2,6 +2,7 @@
 layout: post
 title: CURL get formatted JSON
 description: Format JSON with CURL and jq
+tags: curl
 ---
 
 Hey,

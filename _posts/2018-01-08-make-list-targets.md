@@ -2,6 +2,7 @@
 layout: post
 title: Make list targets [memo]
 description: Makefiles and their targets
+tags: make
 ---
 
 Here is small note about the target I put in every Makefile I have.

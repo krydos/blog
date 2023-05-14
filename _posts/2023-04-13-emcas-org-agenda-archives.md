@@ -2,6 +2,7 @@
 layout: post
 title: Org Agenda - show archived records by default
 description: Emacs & Org Agenda - show archived records
+tags: emacs
 ---
 
 If you didn't know, there are two methods of archiving subtrees

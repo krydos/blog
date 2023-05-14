@@ -2,6 +2,7 @@
 layout: post
 title: Run multiple PostgreSQL instances on one machine
 description: Multiple PostgreSQL instances on Ubuntu 18.04
+tags: postgres
 ---
 
 I'm on Ubuntu 18.04 having PostgreSQL 10.10 installed.

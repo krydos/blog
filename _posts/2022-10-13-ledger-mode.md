@@ -2,6 +2,7 @@
 layout: post
 title: Emacs ledger-mode with hledger
 description: Emacs, hledger binary and ledger-mode
+tags: ledger emacs
 ---
 
 [Hledger](https://hledger.org/) is a text based accounting tool.

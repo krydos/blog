@@ -2,6 +2,7 @@
 layout: post
 title: Doom Emacs - Turn LSP off by default for PHP files
 description: Turn lsp off by default in doom emacs
+tags: emacs
 ---
 
 I'm trying to get used to Doom Emacs and one issue I have is that LSP (in my case Eglot) starts automatically

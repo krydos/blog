@@ -2,6 +2,7 @@
 layout: post
 title: Docker detach keys
 description: docker, broken ctrl-p
+tags: docker terminal
 ---
 
 If you like me and use CTRL-P/CTRL-N instead of arrow keys to navigate through command history, you should be disappointed

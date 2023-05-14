@@ -2,6 +2,7 @@
 layout: post
 title: Makefile -> Taskfile
 description: Use Taskfile for project aliases
+tags: make
 ---
 
 ## Makefile

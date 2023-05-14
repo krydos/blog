@@ -2,6 +2,7 @@
 layout: post
 title: Doom Emacs Search Documentation
 description: Doom Emacs builtin documentation search
+tags: emacs
 ---
 
 Just a quick note on how easy it is to actually navigate Doom Emacs documentation and modules.

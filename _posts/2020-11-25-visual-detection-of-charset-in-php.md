@@ -2,6 +2,7 @@
 layout: post
 title: "PHP: visual charset detection of a string"
 description: mb_convert_encoding manually detect charset
+tags: php
 ---
 
 Sometimes in `mb_convert_encoding($str, 'UTF-8', 'auto')` that latest `auto` argument won't work.

@@ -2,6 +2,7 @@
 layout: post
 title: Emacs & Wgrep
 description: Edit in *grep* buffer directly and save changes
+tags: emacs
 ---
 
 So I just discovered `wgrep` mode of a grep buffer in Emacs and it's incredible.

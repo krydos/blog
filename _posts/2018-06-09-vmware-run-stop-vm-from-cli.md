@@ -2,6 +2,7 @@
 layout: post
 title: VMWare run/stop VM from command line
 description: Manage state of VMWare VMs from command line
+tags: vmware
 ---
 
 Hi everyone,

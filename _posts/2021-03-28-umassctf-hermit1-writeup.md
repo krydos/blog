@@ -2,6 +2,7 @@
 layout: post
 title: UMassCTF '21 Hermit 1 WriteUp
 description: Solution for Hermit 1 challenge from UMassCTF 2021
+tags: hacking
 ---
 
 <center><a target="_blank" href="/assets/img/hermit-logo.png"><img alt="hermit logo" src="/assets/img/hermit-logo.png" width="300px"/></a></center>

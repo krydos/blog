@@ -2,6 +2,7 @@
 layout: post
 title: Docker volumes, WSL and Docker for Windows [memo]
 description: Windows Linux subsystem and docker volumes
+tags: docker wsl
 ---
 
 Hey.

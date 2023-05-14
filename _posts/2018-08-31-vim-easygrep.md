@@ -2,6 +2,7 @@
 layout: post
 title: vim-easygrep
 description: vim plugin easygrep
+tags: vim
 ---
 
 I'm currently trying to use Vim instead of Emacs and one of important workflow I've used to

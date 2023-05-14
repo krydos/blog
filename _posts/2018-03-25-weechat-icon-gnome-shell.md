@@ -2,6 +2,7 @@
 layout: post
 title: Custom icon for terminal application in gnome-shell
 description: Custom icon for terminal application in gnome-shell
+tags: weechat terminal
 ---
 
 Hey,

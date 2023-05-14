@@ -2,6 +2,7 @@
 layout: post
 title: Makefile helper for Laradock
 description: makefile targets for laravel and laradock
+tags: make laravel
 ---
 
 Hey,

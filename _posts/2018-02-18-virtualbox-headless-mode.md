@@ -2,6 +2,7 @@
 layout: post
 title: VirtualBox Headless mode
 description: VirtualBox run machine in headless mode
+tags: virtualbox
 ---
 
 I use VirtualBox and do some testing and learning with multiple machines running at once.

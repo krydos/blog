@@ -2,6 +2,7 @@
 layout: post
 title: MacOS Appearance Auto - theme isn't changing
 description: MacOS auto change of color theme
+tags: macos
 ---
 
 I recently started to appreciate light theme again. Feels great during a day light.<br/>

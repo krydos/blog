@@ -2,6 +2,7 @@
 layout: post
 title: Vim Fugitive. :Glog - show a commit author
 description: custom format for Vim Fugitive :Glog command
+tags: vim
 ---
 
 TL;DR

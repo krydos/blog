@@ -2,6 +2,7 @@
 layout: post
 title: Emacs 29 - Straight.el & Native compilation
 description: Fix (void-variable native-comp-deferred-compilation-deny-list) error
+tags: emacs
 ---
 
 I just built emacs-plus@29 on my MacOS using `--with-native-comp` just

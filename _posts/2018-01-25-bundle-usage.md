@@ -2,6 +2,7 @@
 layout: post
 title: Ruby's bundle exec [memo]
 description: Bundle exec and local ruby packages/gems
+tags: ruby
 ---
 
 Hey.

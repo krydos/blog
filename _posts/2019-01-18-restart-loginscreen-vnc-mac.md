@@ -2,6 +2,7 @@
 layout: post
 title: VNC, MacOS, and frozen login screen
 description: Fix frozen login screen on MacOS when connecting via VNC from Windows
+tags: macos
 ---
 
 Sometimes my VNC client just shows me Mac's login screen with infinitely

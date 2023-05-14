@@ -2,6 +2,7 @@
 layout: post
 title: Bash. Variables inside aliases
 description: an issue with variables inside bash alias
+tags: bash
 ---
 
 Hey,

@@ -2,6 +2,7 @@
 layout: post
 title: "Laravel: get all routes and corresponding controllers/actions"
 description: Get corresponding actions for routes
+tags: laravel
 ---
 
 If you want to know the handler of a particular route you need to run this in your terminal:

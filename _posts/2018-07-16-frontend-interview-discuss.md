@@ -2,6 +2,7 @@
 layout: post
 title: Frontend Developer interview. Help for interviewers (1)
 description: Frontend Developer interview. Situations to discuss with candidate
+tags: productivity
 ---
 
 The problem

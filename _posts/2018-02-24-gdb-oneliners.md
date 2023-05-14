@@ -2,6 +2,7 @@
 layout: post
 title: GDB oneliners
 description: gdb ex command oneliners
+tags: gdb
 ---
 
 Recently I wanted to print disassembled main funciton of the program to the file

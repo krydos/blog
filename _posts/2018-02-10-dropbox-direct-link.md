@@ -2,6 +2,7 @@
 layout: post
 title: Dropbox direct link to file
 description: Get direct link to Dropbox file
+tags: dropbox
 ---
 
 Hey,

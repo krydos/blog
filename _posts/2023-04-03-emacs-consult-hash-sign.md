@@ -2,6 +2,7 @@
 layout: post
 title: Search for hash(#) sign using Emacs' consult-grep
 description: Emacs consult escape hash sing
+tags: emacs
 ---
 
 This is something I came across recently.

@@ -2,6 +2,7 @@
 layout: post
 title: git grep --untracked
 description: git grep untracked files
+tags: git
 ---
 
 Turned out I use `git grep` a lot with my VIM (using [EasyGrep](https://github.com/dkprice/vim-easygrep/issues)

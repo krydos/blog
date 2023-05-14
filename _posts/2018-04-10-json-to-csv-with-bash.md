@@ -2,6 +2,7 @@
 layout: post
 title: JSON to CSV with BASH
 description: BASH parse JSON to CSV
+tags: bash json csv
 ---
 
 Hey, recently I've posted about [jq]({% post_url 2018-03-23-format-curl-json %}) and today I'm going

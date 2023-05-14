@@ -2,6 +2,7 @@
 layout: post
 title: PHPNotifier - task scheduler
 description: PHPNotifier the scheduler for PHP
+tags: php
 ---
 Hi,
 Couple of days ago, working on my full-time project, I noticed we have a huge crontab file.

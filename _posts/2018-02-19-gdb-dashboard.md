@@ -2,6 +2,7 @@
 layout: post
 title: GDB dashboard
 description: gdb dashboard package
+tags: gdb
 ---
 
 If you use GDB you definitely have to try [Dashboard package](https://github.com/cyrus-and/gdb-dashboard) by Andrea Cardaci.

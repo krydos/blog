@@ -2,6 +2,7 @@
 layout: post
 title: Trying Doom once again
 description: Try to switch to Doom after my vanilla config
+tags: emacs
 ---
 
 [Almost a year ago]({% post_url 2022-06-04-emacs-config-from-scratch %}) I already tried to start using Doom config which 

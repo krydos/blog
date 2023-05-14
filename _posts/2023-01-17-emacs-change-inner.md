@@ -2,6 +2,7 @@
 layout: post
 title: Emacs. Change inner/outer like in Vim
 description: use change-inner.el to replace/remove in quotes
+tags: emacs
 ---
 
 If you're a former Vim user there is one feature I couldn't find in any other editors.

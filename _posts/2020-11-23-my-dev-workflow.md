@@ -2,6 +2,7 @@
 layout: post
 title: My Windows development environment setup
 description: My Windows development environment setup. My dev workflow.
+tags: productivity linux vmware wsl
 ---
 
 The title is a little bit misleading though. I have almost nothing dev related on my Windows machine and use Linux VM instead.

@@ -2,6 +2,7 @@
 layout: post
 title: Tmux, default shell
 description: set default shell for tmux
+tags: terminal tmux
 ---
 
 Hey,

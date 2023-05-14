@@ -2,6 +2,7 @@
 layout: post
 title: Restore terminal printing
 description: Fix terminal after printing of binary file
+tags: terminal
 ---
 
 Hey,

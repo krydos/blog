@@ -2,6 +2,7 @@
 layout: post
 title: Facebook webhooks won't accept Ngrok and Localtunnel anymore
 description: Fix for facebook webhooks using own domain and server
+tags: api
 ---
 
 If you want to test webhooks locally you probably use Ngrok or Localtunnel. I do.

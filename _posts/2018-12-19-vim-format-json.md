@@ -2,6 +2,7 @@
 layout: post
 title: Vim, format JSON file
 description: Format JSON file in Vim
+tags: vim json
 ---
 
 I have to note it, it's just brilliant!

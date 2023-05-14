@@ -2,6 +2,7 @@
 layout: post
 title: Reminders with WSL
 description: Reminders with WSL using "at" Linux command
+tags: wsl windows
 ---
 
 Hi everyone,

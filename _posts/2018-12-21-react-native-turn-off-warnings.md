@@ -2,6 +2,7 @@
 layout: post
 title: React Native. Turn off warnings
 description: Turn off warnings in react native
+tags: react
 ---
 
 Sometimes it's annoying to get those warnings while you work on the layout stuff.

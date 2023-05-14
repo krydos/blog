@@ -2,6 +2,7 @@
 layout: post
 title: VirtualBox get IP of VM (cli)
 description: VirtualBox get IP of VM with guestcontrol
+tags: virtualbox terminal
 ---
 
 Here is command to run from CLI to get `ifconfig` output on guest machine (with ubuntu server):

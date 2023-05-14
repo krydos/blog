@@ -2,6 +2,7 @@
 layout: post
 title: Circle image with CSS
 description: How to make circle image with CSS
+tags: css
 ---
 
 Here is post about how to make circled image with css. I have to note it since

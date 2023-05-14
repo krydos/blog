@@ -2,6 +2,7 @@
 layout: post
 title: Vim, dumb-jump
 description: Emacs dumb-jump for Vim
+tags: vim
 ---
 
 hi everyone,

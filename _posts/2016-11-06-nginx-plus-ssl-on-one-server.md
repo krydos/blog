@@ -2,6 +2,7 @@
 layout: post
 title: one Nginx, multiple sites, one SSL certificate
 description: NGINX and multiple sites on one SSL certificate
+tags: nginx
 ---
 
 Hey. Imagine you have 2-3 sites where you have to setup HTTPS but you are limited to use only one SSL certificate for this.

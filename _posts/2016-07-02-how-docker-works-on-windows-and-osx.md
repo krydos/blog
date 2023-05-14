@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Docker parts and how it works on Windows and OSX
+tags: docker
 ---
 <a target="_blank" href="/assets/img/dockerlogo.png"><img alt="fun first" src="/assets/img/dockerlogo.png" width="550px"/></a>
 
