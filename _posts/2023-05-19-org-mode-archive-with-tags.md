@@ -27,18 +27,19 @@ we didn't directly attach that tag to it. That's the tag inheritance.
 If you try to archive **Sub Header1** you will get this kind of record in the *_archive.org file:
 
 ```markdown
-* Sub Header1
+* Sub Header1 :subtag1: <--- this is the tag
   :PROPERTIES:
   :ARCHIVE_TIME: <date>
   :ARCHIVE_FILE: <original org file>
   :ARCHIVE_OLPATH: <org path>
   :ARCHIVE_CATEGORY: <org file category>
-  :ARCHIVE_ITAGS: subtag1 <------------ this is the tag
+  :ARCHIVE_ITAGS: tag1 <--- this is the inherited tags
   :END:
 ```
 
-As you can see the `tag1` is missing in `ARCHIVE_ITAGS` property. In my case it messes up with org records context for me and when I refer to
-archive file I can't quickly understand where was that org record in the original file.
+As you can see the `tag1` is missing in the heading. It is available in the `ARCHIVE_ITAGS` though.
+For me it would be much better if I can see all the tags immediately in the record heading. It will also allow me to filter
+my archived records by those tags.
 
 ## Solution
 
@@ -46,10 +47,10 @@ archive file I can't quickly understand where was that org record in the origina
 (setq org-archive-subtree-add-inherited-tags t)
 ```
 
-It's as easy as that. Now the archived `ARCHIVE_ITAGS` will look like this:
+It's as easy as that. Now the archived heading will look like this:
 
 ```markdown
-:ARCHIVE_ITAGS: tag1 subtag1
+* Sub Header1 :tag1:subtag1:
 ```
 
 which is exactly what I wanted.
