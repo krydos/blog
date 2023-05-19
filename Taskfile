@@ -20,6 +20,7 @@ function new-post {
         && echo "layout: post" >> $POSTPATH \
         && echo "title:" >> $POSTPATH \
         && echo "description:" >> $POSTPATH \
+        && echo "tags:" >> $POSTPATH \
         && echo "---" >> $POSTPATH
 }
 
