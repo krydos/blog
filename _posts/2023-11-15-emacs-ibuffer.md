@@ -2,7 +2,7 @@
 layout: post
 title: Did you know about IBuffer?
 description: Emacs ibuffer is enhancement of Buffer Menu
-tags:
+tags: emacs
 ---
 ## The problem
 Sometimes I use `C-x C-b` to get list of buffers so I can
