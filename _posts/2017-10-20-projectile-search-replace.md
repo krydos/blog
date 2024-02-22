@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Projectile find and replace
+title: Emacs Projectile find and replace
 tags: emacs
 ---
 

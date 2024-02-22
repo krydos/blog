@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A few issues of Org-Roam
+title: "Emacs: A few issues of Org-Roam"
 description: Org-Roam issues
 tags: emacs
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Did you know about IBuffer?
+title: "Emacs: Did you know about IBuffer?"
 description: Emacs ibuffer is enhancement of Buffer Menu
 tags: emacs
 ---

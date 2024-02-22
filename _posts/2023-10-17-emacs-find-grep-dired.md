@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "find-grep-dired: Filter files based on content"
+title: "Emacs find-grep-dired: Filter files based on content"
 description: Emacs Dried - filter files based on content
 tags: emacs
 ---
