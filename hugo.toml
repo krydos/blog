@@ -1,0 +1,36 @@
+baseURL = 'https://codelearn.me/'
+languageCode = 'en-us'
+title = "Ruslan's Tech Blog"
+theme = 'mytheme'
+
+# Enable .html extension.
+# I need it for compatibility with old urls
+# when my site was using Jekyll.
+uglyURLs = true
+
+# Custom link format for posts
+# because it was default format for Jekyll.
+# I'm ok to use this format for new posts too.
+[permalinks]
+  [permalinks.page]
+    post = '/:year/:month/:day/:contentbasename'
+
+# Allow html inside of md files
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+       unsafe = true
+
+# "post" type should have rss generated.
+[outputs]
+  post = ['html', 'rss']
+
+# "feed.xml" is the custom name
+# because it was used in Jekyll
+# and I want to make sure everyone
+# subscribed to that version of blog still
+# have valid link.
+[outputFormats]
+  [outputFormats.RSS]
+    mediatype = "application/rss"
+    baseName = "feed"

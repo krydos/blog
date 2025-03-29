@@ -1,27 +1,7 @@
 #!/bin/bash
-RUBY_CONTAINER_NAME=ruby:2
-
-function debug {
-    podman run --rm -it -v `pwd`:/blog -p 4000:4000 -w="/blog" $RUBY_CONTAINER_NAME bash
-}
 
 function up {
-    bundle config --local path ./vendor; bundle exec jekyll serve --host=0.0.0.0
-}
-
-function bundle-install {
-    bundle config --local path ./vendor; bundle install
-}
-
-function new-post {
-    POSTPATH="./_posts/`date +%Y-%m-%d`-$1.md"
-
-    echo "---" > $POSTPATH \
-        && echo "layout: post" >> $POSTPATH \
-        && echo "title:" >> $POSTPATH \
-        && echo "description:" >> $POSTPATH \
-        && echo "tags:" >> $POSTPATH \
-        && echo "---" >> $POSTPATH
+    hugo serve
 }
 
 function capsule-deploy {
