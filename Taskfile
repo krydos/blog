@@ -4,6 +4,14 @@ function up {
     hugo serve
 }
 
+function new-post {
+    if [ -z "$1" ]; then
+        echo "File name must be specified";
+        exit 1;
+    fi
+    hugo new content "content/post/$1"
+}
+
 function capsule-deploy {
     rsync -aP --exclude '_capsule/_header.gmi' --exclude '_capsule/_footer.gmi' _capsule/ vpn-droplet:/home/gemini/gemini-php/hosts/default/ ; \
         ssh vpn-droplet 'chown -R gemini:gemini /home/gemini/gemini-php/hosts/default'
