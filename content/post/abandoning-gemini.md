@@ -36,6 +36,8 @@ Even pure HTML allows web creators to express themselves by styling their web si
 capsule and read stuff. In the beginning I did but most if not all capsules have regular web (HTTP) versions available to which I often could
 just subscribe to with my RSS reader. Or open them in my browser which is configured with all the things I like (unlike Gemini browsers).
 
+<img alt="hermit logo" src="/assets/img/no-gemini.png" width="100%"/>
+
 I'm going to shut down my capsule in Gemini space and continue living my life with HTTP.
 It gave me (and continuing giving) so much great stuff and the fact that it's broken
 is sad and I should try to make it better place instead of dropping it because it changed.
