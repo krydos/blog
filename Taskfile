@@ -12,11 +12,6 @@ function new-post {
     hugo new content "content/post/$1"
 }
 
-function capsule-deploy {
-    rsync -aP --exclude '_capsule/_header.gmi' --exclude '_capsule/_footer.gmi' _capsule/ vpn-droplet:/home/gemini/gemini-php/hosts/default/ ; \
-        ssh vpn-droplet 'chown -R gemini:gemini /home/gemini/gemini-php/hosts/default'
-}
-
 function help {
     echo "$0 <task> <args>"
     echo "Tasks:"
