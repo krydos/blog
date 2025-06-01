@@ -9,7 +9,7 @@ function new-post {
         echo "File name must be specified";
         exit 1;
     fi
-    hugo new content "content/post/$1"
+    hugo new content "content/post/$1.md"
 }
 
 function help {
