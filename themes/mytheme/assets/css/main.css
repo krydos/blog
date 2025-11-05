@@ -99,8 +99,12 @@ code {
 
 .highlight {
     overflow-x: scroll;
+    margin-bottom: 5px;
     code {
         padding: 0;
+        span {
+            padding: 2px;
+        }
     }
 }
 
