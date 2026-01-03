@@ -1,7 +1,7 @@
 +++
 date = '2025-04-01T21:07:02+11:00'
 draft = false
-title = 'Abandoning Gemini'
+title = 'Abandoning Gemini (the protocol)'
 +++
 
 I've been running my own [Gemini](https://en.wikipedia.org/wiki/Gemini_(protocol)) capsule (web site) on my cheap DigitalOcean droplet for a few years.
