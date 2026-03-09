@@ -1,6 +1,6 @@
 .PHONY: up
 up:
-	hugo serve
+	hugo serve --buildDrafts
 
 .PHONY: new-post
 new-post:
