@@ -15,7 +15,6 @@ Below is a list of blogs I read
 ## BSD
 
 - <a target="_blank" href="https://it-notes.dragas.net/">IT Notes</a> (<a target="_blank" href="https://it-notes.dragas.net/feed.xml">rss</a>)
-- <a target="_blank" href="https://triapul.cz/">Triapul</a> (<a target="_blank" href="https://triapul.cz/feed/english.xml">rss</a>)
 - <a target="_blank" href="https://rubenerd.com/">Ruben Schade</a> (<a target="_blank" href="https://rubenerd.com/feed/">rss</a>)
 
 ## Games
