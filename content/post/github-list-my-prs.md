@@ -1,6 +1,6 @@
 +++
 date = '2026-03-23T21:01:32+11:00'
-draft = true
+draft = false
 title = 'List all my open PRs on GitHub'
 +++
 
