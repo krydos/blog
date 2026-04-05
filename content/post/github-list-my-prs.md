@@ -4,6 +4,7 @@ draft = false
 title = 'List all my open PRs on GitHub'
 +++
 
+<div style="max-width: 600px">
 If you open github.com you'll see the copilot chat interface.
 
 <a target="_blank" href="/assets/img/copilot.chat.png"><img width="600px" src="/assets/img/copilot.chat.png"/></a>
@@ -36,3 +37,4 @@ gh search prs --author @me --state open
 <a target="_blank" href="/assets/img/github.prs.list.png"><img width="600px" src="/assets/img/github.prs.list.png"/></a>
 
 it takes one second.
+</div>
