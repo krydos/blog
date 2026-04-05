@@ -61,7 +61,7 @@ table {
 body {
     color: var(--color-primary);
     background: var(--color-background);
-    font-family: 'Inconsolata';
+    font-family: monospace;
     font-size: 100%;
     font-weight: 400;
 }
@@ -90,11 +90,12 @@ h3 {
     margin-bottom: 10px;
 }
 
-code {
-    padding: 1px;
+pre {
+    padding: 5px;
     background: var(--highlight-background);
     margin-bottom: 10px;
     color: var(--highlight-color);
+    text-wrap: wrap;
 }
 
 .highlight {
@@ -229,7 +230,6 @@ ul {
         }
         strong {
             font-weight: 700;
-            font-size: 17px;
             color: var(--strong-color);
         }
         em {
