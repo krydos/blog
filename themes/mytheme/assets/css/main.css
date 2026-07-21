@@ -113,6 +113,9 @@ p {
     font-size: 1em;
     line-height: 150%;
 }
+[role="navigation"] a {
+    text-decoration: underline;
+}
 a {
     color: var(--color-link);
     text-decoration: none;
