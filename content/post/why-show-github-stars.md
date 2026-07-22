@@ -2,6 +2,7 @@
 date = '2026-05-08T19:55:51+10:00'
 draft = false
 title = 'GitHub stars inflation'
+discourse_link = 'https://ruslansblog.discourse.group/t/github-stars-inflation/13'
 +++
 
 <style>

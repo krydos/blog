@@ -1,2 +1,6 @@
 <hr/>
-Feel free to contact me for feedback or questions. Find my contacts on <a href="/me">About</a> page.
+{{ if .Params.discourse_link }}
+  Jump in for <a href="{{ .Params.discourse_link }}" target="_blank">discussion of this post</a> in my Discourse space.
+{{ else }}
+  Join <a href="https://ruslansblog.discourse.group/t/hello-and-welcome-everyone/8" target="_blank">my Discourse space</a> for discussion of this and other posts.
+{{ end }}
