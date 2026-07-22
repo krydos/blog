@@ -2,6 +2,7 @@
 date = '2026-04-05T15:27:44+10:00'
 draft = false
 title = 'I optimised my blog'
+discourse_link = 'https://ruslansblog.discourse.group/t/i-optimised-my-blog/14'
 +++
 
 I looked at my blog in the network tab and I saw this:
