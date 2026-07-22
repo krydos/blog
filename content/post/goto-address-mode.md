@@ -3,6 +3,7 @@ date = '2026-04-05T14:12:53+10:00'
 draft = false
 title = 'Emacs: goto-address-mode'
 tags = ['emacs']
+discourse_link = 'https://ruslansblog.discourse.group/t/emacs-goto-address-mode/15'
 +++
 
 In [one of my previous blog posts]({{< relref "./github-list-my-prs.md" >}}) I mentioned a command that returns the list of all **open**

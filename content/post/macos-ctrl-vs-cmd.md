@@ -3,6 +3,7 @@ date: "2026-04-04T00:00:00Z"
 draft: false
 tags: macos linux windows productivity
 title: CMD vs CTRL philosophy on macOS vs Linux
+discourse_link: 'https://ruslansblog.discourse.group/t/cmd-vs-ctrl-philosophy-on-macos-vs-linux/16'
 ---
 
 I think macOS keyboard shortcut philosophy is superior to Windows or Linux.
