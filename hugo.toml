@@ -1,4 +1,4 @@
-baseURL = 'https://codelearn.me/'
+baseURL = 'https://blog.bekenev.net/'
 languageCode = 'en-us'
 title = "Ruslan's Tech Blog"
 theme = 'mytheme'
